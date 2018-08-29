@@ -1,4 +1,4 @@
-This project is to build a neural network from scratch to implement on a prediction problem-predict daily bike rental ridership.
+This project is to build a neural network from scratch and implement on a prediction problem - predict daily bike rental ridership.
 
 The details and results can be found [here](https://github.com/glitterzhang/UdacityDeepLearning/blob/master/Project1-BikingSharePrediction/Neural_network_predict_bike_sharing.ipynb)
 
