@@ -14,6 +14,9 @@ The network has two layers, a hidden layer and an output layer. The hidden layer
 Neural_network_predict_bike_sharing.ipynb: 
 This file is to implement neural network on bike sharing prediction project.
 
+requirements.txt: 
+This files contains all the packages that you need to run this project.
+
 test.py:
 This file is the unitest file.
 
@@ -26,14 +29,6 @@ conda install package_name
     
 e.g. conda install numpy scipy pandas jupyter notebook
 
-Packages we need for this project:
-numpy'
-pandas'
-jupyter'
-notebook'
-matplotlib
-
-
 Once all require packages install in you environment, then type 
    jupyter notebook
 under your command prompt. 
@@ -41,5 +36,4 @@ under your command prompt.
             ---- Materials-----
  
 https://skymind.ai/wiki/neural-network
-
 http://ruder.io/optimizing-gradient-descent/index.html#momentum
