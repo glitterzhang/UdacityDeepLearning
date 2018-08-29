@@ -27,10 +27,10 @@ conda install package_name
 e.g. conda install numpy scipy pandas jupyter notebook
 
 Packages we need for this project:
-numpy
-pandas
-jupyter
-notebook
+numpy'
+pandas'
+jupyter'
+notebook'
 matplotlib
 
 
