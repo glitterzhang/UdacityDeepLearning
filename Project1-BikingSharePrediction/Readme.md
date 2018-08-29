@@ -36,4 +36,5 @@ under your command prompt.
             ---- Materials-----
  
 https://skymind.ai/wiki/neural-network
+
 http://ruder.io/optimizing-gradient-descent/index.html#momentum
