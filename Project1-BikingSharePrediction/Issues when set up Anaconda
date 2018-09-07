@@ -1,6 +1,6 @@
 ###Issues when set up Anaconda, Tensorflow, Keras
 
-create .condarc under home directory https://conda.io/docs/user-guide/configuration/admin-multi-user-install.html
+create .condarc under home directory. Instructions [find here](https://conda.io/docs/user-guide/configuration/admin-multi-user-install.html)
 
 channels:
   - defaults
